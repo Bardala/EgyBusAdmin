@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EgyBusAdmin/static/css/main.f29c79a7.css",
+    "main.js": "/EgyBusAdmin/static/js/main.9013195e.js",
+    "index.html": "/EgyBusAdmin/index.html",
+    "main.f29c79a7.css.map": "/EgyBusAdmin/static/css/main.f29c79a7.css.map",
+    "main.9013195e.js.map": "/EgyBusAdmin/static/js/main.9013195e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f29c79a7.css",
+    "static/js/main.9013195e.js"
+  ]
+}
