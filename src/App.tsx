@@ -6,7 +6,7 @@ import { Admin } from './pages/admin';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename='EgyBusAdmin'>
         <Routes>
           <Route path="/" element={<Login />} />
           <Route path="/admin" element={<Admin />} />
